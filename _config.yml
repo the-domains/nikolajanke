@@ -1,7 +1,8 @@
 name: nikolajanke
 favicon: null
-layout_spectrum: 0.8781006268691272
-typography_spectrum: 0.7435346271377057
+layout_spectrum: 1
+typography_spectrum: 0.57476
+title: Nikola Janke
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7735177744179964
-  lightness: 0.6248634597286582
-  saturation: 0.3312580157071352
-  rhythmicContrast: 0.16125011420808733
+    - '#040404'
+    - '#dbdbdb'
+    - '#bfbfbf'
+    - '#878787'
+    - '#4c4c4c'
+  brandStrength: 0.6875
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
