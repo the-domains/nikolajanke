@@ -1,29 +1,41 @@
-name: nikolajanke
-favicon: null
-layout_spectrum: 0.88749
-typography_spectrum: 0.24305
 title: Nikola Janke
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.4957447
+  lightness: 0.5625
+  brandColors:
+    - '#0C0F0F'
+    - '#C7C5BD'
+    - '#F1F1F3'
+    - '#646665'
+    - '#414243'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: nikolajanke
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#714721'
-    - '#9f754d'
-    - '#572f0b'
-    - '#d19c61'
-    - '#e0b681'
-  brandStrength: 0.6875
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.24305
+layout_spectrum: 0.88749
