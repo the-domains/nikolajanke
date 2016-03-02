@@ -1,6 +1,6 @@
 name: nikolajanke
 favicon: null
-layout_spectrum: 0.742
+layout_spectrum: 0.88749
 typography_spectrum: 0.75517
 title: Nikola Janke
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040404'
-    - '#dbdbdb'
-    - '#bfbfbf'
-    - '#878787'
-    - '#4c4c4c'
+    - '#714721'
+    - '#9f754d'
+    - '#572f0b'
+    - '#d19c61'
+    - '#e0b681'
   brandStrength: 0.6875
   lightness: 0.5625
   saturation: 0.5
