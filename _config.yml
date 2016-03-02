@@ -1,0 +1,29 @@
+name: nikolajanke
+favicon: null
+layout_spectrum: 0.8781006268691272
+typography_spectrum: 0.7435346271377057
+title: Nikola Janke
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7735177744179964
+  lightness: 0.6248634597286582
+  saturation: 0.3312580157071352
+  rhythmicContrast: 0.16125011420808733
+purpose: []
