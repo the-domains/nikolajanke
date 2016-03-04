@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Šta je istina a šta nije...
-datePublished: '2016-03-04T07:02:30.805Z'
-dateModified: '2016-03-04T07:02:06.286Z'
+datePublished: '2016-03-04T07:05:11.329Z'
+dateModified: '2016-03-04T07:04:09.770Z'
 title: Prvi utisak o TheGrid-u
 author: []
+sourcePath: _posts/2016-03-04-prvi-utisak-o-thegrid-u.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-prvi-utisak-o-thegrid-u.md
-published: true
 url: prvi-utisak-o-thegrid-u/index.html
 _type: Article
 
