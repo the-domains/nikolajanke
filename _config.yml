@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: nikolajanke
 favicon: null
+name: nikolajanke
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.24305
+typography_spectrum: 0.9
 layout_spectrum: 0.2595745
